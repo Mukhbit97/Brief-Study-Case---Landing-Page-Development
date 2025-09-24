@@ -1,4 +1,3 @@
-# Brief-Study-Case---Landing-Page-Development
 # AI dan Implementasi AI di Industri Contact Center
 
 Landing page ini dirancang untuk memperkenalkan bagaimana Artificial Intelligence (AI) 
